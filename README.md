@@ -1,4 +1,4 @@
-# 🧠 User Management API (Refactored)
+#  User Management API 
 
 This is a refactored version of a legacy user management system built with Flask and SQLite. It improves security, modularity, and maintainability while preserving all original functionality.
 
